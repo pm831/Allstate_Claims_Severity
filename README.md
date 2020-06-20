@@ -1,7 +1,7 @@
 # Allstate Claims Severity
 ### Pujan Malavia
 
-
+![allstate](https://user-images.githubusercontent.com/19572673/85208114-d3501e00-b2fb-11ea-80cb-2c046c0c7982.jpg)
 
 ### Link to Dataset:
 https://www.kaggle.com/c/allstate-claims-severity/data
