@@ -63,3 +63,10 @@ cont13
 cont14
 
 loss
+
+<img width="953" alt="output_27_1" src="https://user-images.githubusercontent.com/19572673/85812199-03e5ec80-b72e-11ea-85cc-8d112504a5ad.png">
+<img width="966" alt="output_29_1" src="https://user-images.githubusercontent.com/19572673/85812200-03e5ec80-b72e-11ea-8988-e25a79813d5f.png">
+<img width="953" alt="output_32_0" src="https://user-images.githubusercontent.com/19572673/85812201-047e8300-b72e-11ea-9259-7efbee5d028d.png">
+<img width="946" alt="output_33_1" src="https://user-images.githubusercontent.com/19572673/85812202-047e8300-b72e-11ea-9d58-f42e4c16f055.png">
+<img width="846" alt="output_34_1" src="https://user-images.githubusercontent.com/19572673/85812203-047e8300-b72e-11ea-9692-7d9caf6a0873.png">
+
