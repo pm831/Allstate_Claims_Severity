@@ -64,21 +64,29 @@ cont14
 
 loss
 
-### Data Visualization
+### Data Visualization:
 
 Python (Jupyter Notebook) Visualizations
 
 https://github.com/pm831/Allstate_Claims_Severity/blob/master/AllState_Claims_Severity.ipynb
 
-
+Amount of categorical features with X distinct values and Zooming in the [0,30] part of left histogram
 
 <img width="953" alt="output_27_1" src="https://user-images.githubusercontent.com/19572673/85812199-03e5ec80-b72e-11ea-85cc-8d112504a5ad.png">
 
+Loss values per ID
+
 <img width="966" alt="output_29_1" src="https://user-images.githubusercontent.com/19572673/85812200-03e5ec80-b72e-11ea-8988-e25a79813d5f.png">
+
+Train Loss Target Histogram & Train Log Loss Target Histogram
 
 <img width="953" alt="output_32_0" src="https://user-images.githubusercontent.com/19572673/85812201-047e8300-b72e-11ea-9259-7efbee5d028d.png">
 
+Histograms of all Continuous Features
+
 <img width="946" alt="output_33_1" src="https://user-images.githubusercontent.com/19572673/85812202-047e8300-b72e-11ea-9d58-f42e4c16f055.png">
+
+Heatmap (Correlation plot) of Continuous Variables
 
 <img width="846" alt="output_34_1" src="https://user-images.githubusercontent.com/19572673/85812203-047e8300-b72e-11ea-9692-7d9caf6a0873.png">
 
