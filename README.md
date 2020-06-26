@@ -68,6 +68,10 @@ loss
 
 Python (Jupyter Notebook) Visualizations
 
+https://github.com/pm831/Allstate_Claims_Severity/blob/master/AllState_Claims_Severity.ipynb
+
+
+
 <img width="953" alt="output_27_1" src="https://user-images.githubusercontent.com/19572673/85812199-03e5ec80-b72e-11ea-85cc-8d112504a5ad.png">
 
 <img width="966" alt="output_29_1" src="https://user-images.githubusercontent.com/19572673/85812200-03e5ec80-b72e-11ea-8988-e25a79813d5f.png">
