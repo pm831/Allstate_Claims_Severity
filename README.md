@@ -90,3 +90,12 @@ Heatmap (Correlation plot) of Continuous Variables
 
 <img width="846" alt="output_34_1" src="https://user-images.githubusercontent.com/19572673/85812203-047e8300-b72e-11ea-9692-7d9caf6a0873.png">
 
+### Communication of Results to Business Partner:
+To a business partner, I would explain that the Random Forest (all else equal) would work better for complex data (high variance, low bias) that’s a bit more unknown in terms of predictors’ effect on the response variable since it looks at all predictor variables equally in terms of its importance.
+
+### Future Work:
+Continue to do hyperparameter tuning of the model and creating new features/removing old features to help increase the prediction accuracy of the model
+
+Try other types of models to see if the accuracy rate improves
+
+More data visualization/patterns within the dataset (external sources) that can lead to more insights and decision-making from a business perspective
