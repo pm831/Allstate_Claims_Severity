@@ -33,6 +33,12 @@ Creating an algorithm which accurately predicts claims severity
 ### Tool:
 Python (Jupyter Notebook)
 
+### Techniques:
+
+Random Forest
+
+Logistic Regression
+
 ### Initial Dataset(s):
 train.csv - the training set
 
